@@ -1,4 +1,4 @@
-Brittanie: Contributed to front end
+Brittanie: Contributed to front end volunteer pages
 
 # Team-14
 
