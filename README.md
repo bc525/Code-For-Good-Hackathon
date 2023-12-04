@@ -1,3 +1,5 @@
+Brittanie: Contributed to front end
+
 # Team-14
 
 ## [BACKEND Pointers](BACKEND/schemas/)
